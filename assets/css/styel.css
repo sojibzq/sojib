@@ -1,0 +1,263 @@
+@import url('https://fonts.googleapis.com/css2?family=ZCOOL+XiaoWei&display=swap');
+* {
+	margin: 0px;
+	padding: 0px;
+	text-decoration: none;
+	list-style: none;
+	font-family: 'ZCOOL XiaoWei', serif;
+}
+.container {
+	width: 100%;
+	margin: auto;
+}
+.header {
+	background-image: url(../img/header.jpg);
+	background-position: center center;
+	width: 100%;
+	height: 700px;
+}
+.header:after {
+	content: "";
+	display: block;
+	clear: both;
+}
+.logo {
+	float: left;
+	width: 15%;
+}
+.logo img {
+	width: 120px;
+	margin-left: 30px;
+	margin-top: 25px;
+}
+.li {
+	float: left;
+	width: 70%;
+}
+.li ul li {
+	display: inline-block;
+	margin-top: 40px;
+	padding: 0px 20px;
+	font-size: 18px;
+}
+.li ul li a {
+	color: #ff9474;
+}
+.li ul li:hover a {
+	color: #da623e;
+}
+.btn {
+	float: left;
+
+}
+.btn button {
+	background-color: #ff9474;
+	padding: 12px 50px;
+	border: none;
+	border-radius: 100px;
+	font-size: 18px;
+	color: #fff;
+	margin-top: 30px;
+	cursor: pointer;
+}
+.btn button:hover {
+	background-color: #ed8a6c;
+}
+.bn {
+	margin-top: -500px;
+}
+.bn h1 {
+	font-size: 80px;
+	color: #ff9474;
+	text-align: center;
+	display: block;
+	margin-bottom: 50px;
+	font-family: 'ZCOOL XiaoWei', serif;
+}
+.bn p {
+	text-align: center;
+	line-height: 35px;
+	color: #833219;
+	font-size: 24px;
+}
+.bn button {
+	display: block;
+	margin: auto;
+	padding: 15px 30px;
+	background-color: #ff9474;
+	font-size: 18px;
+	color: #fff;
+	border-radius: 100px;
+	border: none;
+	margin-top: 40px;
+	cursor: pointer;
+}
+.bn button:hover {
+	background-color: #ed8a6c;
+}
+/*banner End*/
+/*teem start*/
+.container1 {
+	width: 100%;
+	margin: auto;
+}
+.teem-member:after {
+	content: "";
+	display: block;
+	clear: both;
+}
+.teem-member {
+	margin-top: 200px;
+	margin-left: 130px;
+}
+.teem {
+	margin-left: 50px;
+}
+.teem {
+	float: left;
+}
+.teem img {
+	width: 300px;
+}
+.teem h1 {
+	font-size: 24px;
+	color: #ff9474;
+	text-align: center;
+	margin-top: 50px;
+}
+.teem p {
+	color: #833219;
+	font-size: 17px;
+	line-height: 30px;
+	text-align: center;
+	margin-top: 30px;
+}
+.bt button {
+	display: block;
+	margin: auto;
+	padding: 15px 30px;
+	border: none;
+	border-radius: 100px;
+	color: #fff;
+	font-size: 17px;
+	background-color: #ff9474;
+	margin-top: 100px;
+	cursor: pointer;
+}
+.bt button:hover {
+	background-color: #ed8a6c;
+}
+
+.img {
+	background-image: url(../img/img.jpg);
+	background-position: center center;
+	width: 90%;
+	margin: auto;
+	height: 800px;
+}
+.img img {
+	margin: auto;
+	display: block;
+	height: 550px;
+	width: 80%;
+	margin-top: 200px;
+}
+
+.h {
+	text-align: center;
+}
+.h h1 {
+	color: #ff9474;
+	font-size: 60px;
+}
+.h p {
+	color: #833219;
+	font-size: 24px;
+	line-height: 35px;
+	margin-top: 30px;
+}
+.container2 {
+	width: 100%;
+	margin: auto;
+}
+.teem-mem:after {
+	content: "";
+	display: block;
+	clear: both;
+}
+.tm {
+	float: left;
+}
+.tm img {
+	margin-left: 170px;
+	margin-top: 70px;
+}
+.tm p {
+	text-align: center;
+	font-size: 21px;
+	color: #833219;
+	margin-left: 130px;
+	margin-top: 50px;
+	line-height: 30px;
+}
+
+.img2 img {
+	margin: auto;
+	display: block;
+	margin-top: 200px;
+}
+.container3 {
+	width: 100%;
+	margin: auto;
+}
+.banner {
+	margin-top: 100px;
+}
+.banner .bnr {
+	margin-left: 150px;
+}
+.banner:after {
+	content: "";
+	display: block;
+	clear: both;
+}
+.h5 {
+	text-align: center;
+}
+.h5 p {
+	color: #833219;
+	font-size: 16px;
+}
+.h5 h1 {
+	font-size: 60px;
+	color: #ff9474;
+}
+.bnr {
+	float: left;
+}
+.bnr img {
+	width: 250px;
+	margin-left: 
+}
+.bnr h2 {
+	text-align: center;
+	font-size: 24px;
+	color: #ff9474;
+	margin-top: 40px;
+}
+.bnr p {
+	text-align: center;
+	color: #833219;
+	line-height: 25px;
+}
+.btnn button {
+	padding: 15px 30px;
+	color: #fff;
+	border: none;
+	border-radius: 100px;
+	background-color: #ff9474;
+	margin: auto;
+	display: block;
+	cursor: pointer;
+	margin-top: 30px;
+}
